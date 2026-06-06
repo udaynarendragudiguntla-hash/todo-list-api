@@ -49,7 +49,7 @@ project-folder/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-list-api.git
+git clone https://github.com/udaynarendragudiguntla-hash/todo-list-api.git
 ```
 
 Move into the project folder:
